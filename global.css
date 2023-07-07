@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body-text-base-font-semibold: "Golos Text";
+  --lato-regular-copy-14-ms-fontsize-14-fontsizessize14: Lato;
+
+  /* font sizes */
+  --body-text-base-font-semibold-size: 16px;
+  --desktop-headline-h2-text-4xl-size: 36px;
+  --lato-regular-copy-14-ms-fontsize-14-fontsizessize14-size: 14px;
+
+  /* Colors */
+  --neutral-50: #f8fafc;
+  --color-gainsboro: #d9d9d9;
+  --grey-palette-grey190: #201f1e;
+  --grays-nsfas-dark-gray: #1a1a1a;
+  --basic-white: #fff;
+  --brand-700: #faab50;
+  --neutral-600: #475569;
+  --grey-palette-grey160: #323130;
+  --neutral-500: #64748b;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-base: 16px;
+  --gap-9xs: 4px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-5xs: 8px;
+}
